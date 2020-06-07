@@ -2,9 +2,13 @@
 This is file 4.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Update hotfix file.
 =======
 Add freature 1 in file 4
 
 
 >>>>>>> Feature_1
+=======
+Add feature in file 4.
+>>>>>>> Feature_2

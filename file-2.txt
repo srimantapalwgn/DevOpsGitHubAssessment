@@ -1,5 +1,6 @@
 This is file 2.
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 This is hot fix file change. 
@@ -9,3 +10,8 @@ Add  Feature 2 in file 2.
 
 
 >>>>>>> Feature_1
+=======
+Add feature 2 in this file.
+
+
+>>>>>>> Feature_2
