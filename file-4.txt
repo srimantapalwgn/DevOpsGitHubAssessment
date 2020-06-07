@@ -1,4 +1,10 @@
 
 This is file 4.
 
+<<<<<<< HEAD
 Update hotfix file.
+=======
+Add freature 1 in file 4
+
+
+>>>>>>> Feature_1

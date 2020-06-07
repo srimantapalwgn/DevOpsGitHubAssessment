@@ -1,5 +1,11 @@
 This is file 2.
+<<<<<<< HEAD
 
 
 This is hot fix file change. 
 Update error.
+=======
+Add  Feature 2 in file 2.
+
+
+>>>>>>> Feature_1
