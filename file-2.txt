@@ -1,1 +1,2 @@
 This is file 2.
+add feature 2 in this file
